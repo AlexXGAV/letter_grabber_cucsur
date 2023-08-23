@@ -1,6 +1,15 @@
 # Letter Grabber CUCSUR
 Application to capture and save data of X,Y coordinates and time of drawn handwritten letters.
 
+## Installation
+
+Install [python](https://www.python.org/)
+
+Install requirements
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage
 Run the app.py file
 ```bash
