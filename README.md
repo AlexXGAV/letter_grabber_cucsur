@@ -16,6 +16,9 @@ Run the app.py file
 python app.py
 ```
 Or you can use the [PyInstaller](https://pypi.org/project/pyinstaller/) library to create the executable (.exe)
+```bash
+pyinstaller --onefile app.py
+```
 
 ## License
 
